@@ -1,2 +1,1 @@
-import math
-print(math.factorial(27))
+print((2+2)!=5)
